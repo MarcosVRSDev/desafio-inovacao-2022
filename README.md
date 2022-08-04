@@ -20,3 +20,4 @@ Esse desafio foi elaborado para avaliar suas habilidades como desenvolvedor. Nã
 
 - A aplicação deve ser desenvolvida em Angular.
 - Feito é melhor do que perfeito. Não gaste tempo demais tentando impressionar, foque nos critérios de aceite, se sobrar algum tempo, pode pensar em como incrementar a aplicação. Mas lembre-se, menos é mais.
+- Após avaliação, o projeto deverá ser apresentado.
