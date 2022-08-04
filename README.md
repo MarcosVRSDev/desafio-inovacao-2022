@@ -4,7 +4,7 @@ Esse desafio foi elaborado para avaliar suas habilidades como desenvolvedor. Nã
 
 ## O que será avaliado?
 
-- Atendimento aos critérios de aceite
+- Atendimento aos critérios de aceite ([ACCEPTANCE-CRITERIA.md](ACCEPTANCE-CRITERIA.md)).
 - A aplicação em si
   - Legibilidade do código
   - Simplicidade
